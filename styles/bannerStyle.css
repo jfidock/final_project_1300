@@ -7,33 +7,29 @@ Final Project Milestone 2
  <!-- Banner and Nav Bar -->
  */
 
+
 #banner {
 	/*background-image: url("../images/appleBanner.jpg");*/
-	background-image: url("../images/appleBannerDark.jpg");
+	background-image: url("../images/appleTree.jpg");
 	background-color: #cccccc;
 	background-size: cover;
 	padding: 4em 4em 4em 4em;
-
+	font-family: 'Noto Serif', serif;
 }
 
 #overlay {
-	/*text-shadow: 1em 1em #ff0000;*/
-	/*-webkit-box-shadow: 0px 0px 40px 0px rgba(0,0,0,0.75);
-	-moz-box-shadow: 0px 0px 40px 0px rgba(0,0,0,0.75);
-	box-shadow: 0px 0px 40px 0px rgba(0,0,0,0.75);*/
-	/*-webkit-box-shadow: 0px 0px 185px 50px rgba(0,0,0,0.75);
--moz-box-shadow: 0px 0px 185px 50px rgba(0,0,0,0.75);
-box-shadow: 0px 0px 185px 50px rgba(0,0,0,0.75);*/
-	color: #fdbb84;
+	text-shadow: 2px 2px #000000;
+	color: #B5E9F8;
 	text-align: center;
 	font-size: 4em;
-	padding: 1em 1em 1em 1em;
+	padding: 0.5em 1em 1em 1em;
 }
 
 #navBar {
 	text-align: center;
 	padding: 1em 1em 1em 1em;
-	background-color: #3B0021;
+	background-color: #18B02A;
+	font-size: 1.1em;
 }
 
 #navBar a:link {
@@ -41,7 +37,7 @@ box-shadow: 0px 0px 185px 50px rgba(0,0,0,0.75);*/
 }
 
 #navBar a:hover {
-	color: #fdbb84;
+	color: #B5E9F8;
 }
 
 .navSpan {
@@ -52,6 +48,15 @@ box-shadow: 0px 0px 185px 50px rgba(0,0,0,0.75);*/
 .navSpan a {
 	text-decoration: underline;
 }
+
+/*body {
+    background-color: #ffffff;
+    font-family: Roboto, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: David Libre, serif;
+}*/
 
 /*#banner {
 	background-color: #3182bd;
