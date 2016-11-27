@@ -10,8 +10,7 @@ Final Project Milestone 2
 <div id="top">
 
 	<div id="banner">
-		<h1 id="overlay">34th Annual Apple Harvest Festival</
-		h1>
+		<h1 id="overlay">34th Annual Apple Harvest Festival</h1>
 	</div>
 	<!-- End of banner div -->
 
