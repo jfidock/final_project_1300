@@ -16,8 +16,8 @@ Final Project Milestone 2
 }
 
 #banner {
-	/*background-image: url("../images/appleBanner.jpg");*/
 	background-image: url("../images/appleTree.jpg");
+	/*Image citation: https://cdn.pixabay.com/photo/2014/06/01/22/33/apple-tree-360083_960_720.jpg*/
 	background-color: #cccccc;
 	background-size: cover;
 	height: 10em;
