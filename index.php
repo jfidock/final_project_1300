@@ -41,7 +41,7 @@
 
       <div id="Contact Us">
         <h1>Contact Us</h1>
-        <p></p>
+        <p>There will be more information here about how to contact us</p>
       </div>
 
     </div>
