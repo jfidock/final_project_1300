@@ -11,6 +11,8 @@ Final Project Milestone 2
 #top {
 	position: fixed;
 	width: 100%;
+	top: 0em;
+	left: 0em;
 }
 
 #banner {
