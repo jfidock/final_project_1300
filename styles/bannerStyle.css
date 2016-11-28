@@ -30,6 +30,7 @@ Final Project Milestone 2
 	padding: 1em 1em 1em 1em;
 	background-color: #18B02A;
 	font-size: 1.1em;
+	position: fixed;
 }
 
 #navBar a:link {

@@ -16,23 +16,30 @@
     <link rel="stylesheet" type="text/css" href="styles/bannerStyle.css">
     <link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel="stylesheet">
   </head>
-  <body>
-    <?php   
-      // call php file to read csv and update html with information
-      include 'scripts/banner_and_nav.php';
-    ?>
-    <!-- <div id="title">
-      <h1>Basic Archery Terms</h1>
-    </div>
-    
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="about.html">About</a>
-      <a href="contact.html">Contact</a>
-    </nav> -->
+  <body>  
+  // call php file to read csv and update html with information
+  <?php include 'scripts/banner_and_nav.php';?>
 
     <div id="container">
-      <!-- <h1>Glossary of Basic Archery Terms</h1> -->
+      <div id="About">
+        <h1>Apple Harvest History</h1>
+        <p></p>
+      </div>
+
+      <div id="Events">
+        <h1>Events</h1>
+        <p></p>
+      </div>
+
+      <div id="Entertainment">
+        <h1>Entertainment</h1>
+        <p></p>
+      </div>
+
+      <div id="Contact Us">
+        <h1>Contact Us</h1>
+        <p></p>
+      </div>
 
     </div>
     <footer>
