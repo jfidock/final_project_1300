@@ -8,29 +8,38 @@ Final Project Milestone 2
  */
 
 
+#top {
+	position: fixed;
+	width: 100%;
+}
+
 #banner {
 	/*background-image: url("../images/appleBanner.jpg");*/
 	background-image: url("../images/appleTree.jpg");
 	background-color: #cccccc;
 	background-size: cover;
-	padding: 4em 4em 4em 4em;
+	height: 10em;
+	width: 100%;
+	padding: 1em 1em 1em 1em;
 	font-family: 'Noto Serif', serif;
+	margin: 0em 0em 0em 0em; 
 }
 
 #overlay {
 	text-shadow: 2px 2px #000000;
 	color: #B5E9F8;
 	text-align: center;
-	font-size: 4em;
+	font-size: 3em;
 	padding: 0.5em 1em 1em 1em;
 }
 
 #navBar {
+	width: 100%;
 	text-align: center;
 	padding: 1em 1em 1em 1em;
 	background-color: #18B02A;
 	font-size: 1.1em;
-	position: fixed;
+	margin: 0em 0em 0em 0em; 
 }
 
 #navBar a:link {
@@ -51,7 +60,11 @@ Final Project Milestone 2
 }
 
 #container {
-	padding: 2em 10em 1em 10em;
+	padding: 17em 10em 1em 10em;
+}
+
+#container h1 {
+	text-align: center;
 }
 
 /*body {
